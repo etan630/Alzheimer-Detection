@@ -1,0 +1,21 @@
+name: alzheimers_project
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - "python>=3.11"
+  - poetry
+  - pandas
+  - seaborn
+  - matplotlib
+  - numpy
+  - tqdm
+  - imageio
+  - scikit-learn
+  - notebook
+  - jupyterlab
+  - scikit-image
+  - tensorflow
+  - opencv
+  - imbalanced-learn
+  - keras-preprocessing
