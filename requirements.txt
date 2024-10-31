@@ -1,0 +1,11 @@
+pandas
+seaborn
+matplotlib
+numpy
+tqdm
+imageio
+scikit-learn
+notebook
+jupyterlab
+scikit-image
+imbalanced-learn
