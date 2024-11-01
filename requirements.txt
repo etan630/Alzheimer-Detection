@@ -9,3 +9,6 @@ notebook
 jupyterlab
 scikit-image
 imbalanced-learn
+opencv-python
+tensorflow
+imageio
