@@ -1,7 +1,7 @@
 pandas
 seaborn
 matplotlib
-numpy
+numpy==1.26.4
 tqdm
 imageio
 scikit-learn
@@ -10,5 +10,5 @@ jupyterlab
 scikit-image
 imbalanced-learn
 opencv-python
-tensorflow
+tensorflow=2.17.0
 imageio
