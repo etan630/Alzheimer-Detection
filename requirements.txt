@@ -12,3 +12,4 @@ imbalanced-learn
 opencv-python
 tensorflow==2.17.0
 imageio
+pillow
