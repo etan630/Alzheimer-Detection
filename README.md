@@ -25,14 +25,16 @@ scikit image, then we can just not have it.
 ## Relevant Directories and Files
 
 /Data/ - The directory where the MRI scans are sorted into different classes
-    1. Mild Dementia
-    2. Moderate Dementia
-    3. Non Demented
-    4. Very mild Dementia
+1. Mild Dementia
+2. Moderate Dementia
+3. Non Demented
+4. Very mild Dementia
 
 /notebooks/ - The directory containing the different ML models
-    1. /notebooks/1_CNN.ipynb - The CNN Model notebook
-    2. /notebooks/preprocessing.py - Where the prepocessing of data lies. 
+1. /notebooks/1_CNN.ipynb - The CNN Model notebook
+2. /notebooks/preprocessing.py - Where the prepocessing of data lies. 
+3. /notebooks/testmodel.py - runs the Gradcam algorithm on one image
+4. /notebooks/cnn.keras - cnn model
 
 /environment.yml - The configuration file.
 
