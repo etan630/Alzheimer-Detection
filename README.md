@@ -32,9 +32,12 @@ scikit image, then we can just not have it.
 
 /notebooks/ - The directory containing the different ML models
 1. /notebooks/1_CNN.ipynb - The CNN Model notebook
-2. /notebooks/preprocessing.py - Where the prepocessing of data lies. 
-3. /notebooks/testmodel.py - runs the Gradcam algorithm on one image
-4. /notebooks/cnn.keras - cnn model
+2. /notebooks/2_Logistic_Regression_Balanced.ipynb - The logistic regression model trained on a balanced dataset notebook
+3. /notebooks/2_Logistic_Regression_Imbalanced.ipynb - The logistic regression model trained on the original, imbalanced dataset notebook
+4. /notebooks/3_SVM.ipynb - The SVM Model notebook
+5. /notebooks/preprocessing.py - Where the prepocessing of data for the CNN model lies. 
+6. /notebooks/preprocessing.py - Where the prepocessing of data for the SVM model lies. 
+7. /notebooks/testmodel.py - Runs the Gradcam algorithm on one image
 
 /environment.yml - The configuration file.
 
