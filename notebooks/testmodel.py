@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 model = tf.keras.models.load_model('cnn.keras')
 
 DATASET_PATH = "../Data/"
-IMAGE_PATH = "/Moderate Dementia/OAS1_0308_MR1_mpr-1_102.jpg"
+IMAGE_PATH = "Very mild Dementia/OAS1_0003_MR1_mpr-3_158.jpg"
 BATCH_SIZE = 32
 VALIDATION_SPLIT = 0.3
 IMAGE_SIZE = (248, 496)
